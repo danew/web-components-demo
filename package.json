@@ -1,0 +1,16 @@
+{
+  "name": "web-components-demo",
+  "version": "1.0.0",
+  "description": "Short interactive introductory to Web Components",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "keywords": [],
+  "author": "Dane Wilson",
+  "license": "MIT"
+}
